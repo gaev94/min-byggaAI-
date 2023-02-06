@@ -1,0 +1,2 @@
+# min-byggaAI-
+ByggaAI kurs
